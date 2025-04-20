@@ -1,17 +1,12 @@
-# National-Geography
-A visually immersive landing page built with React.js, inspired by National Geographic's iconic design style. This layout features parallax-style visuals, dynamic sections, and a clean, responsive user interface — perfect for showcasing nature, wildlife, and travel content.
-Features:
+# React + Vite
 
-Built with React.js and modern web development practices
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Fullscreen hero section with overlay and bold typography
+Currently, two official plugins are available:
 
-Parallax-inspired image layout
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Modular, reusable React components
+## Expanding the ESLint configuration
 
-Fully responsive and mobile-friendly
-
-Styled for an editorial, documentary-style web experience
-
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
